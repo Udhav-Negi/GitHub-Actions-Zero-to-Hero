@@ -1,5 +1,6 @@
 # app.py
 # This is a test commit
+# Testing for branch protection
 def add(a, b):
     return a + b
 
