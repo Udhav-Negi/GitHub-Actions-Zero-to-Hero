@@ -7,6 +7,7 @@
 # main commit 1
 # main commit 2
 # branch 6 commit 1
+# branch 6 commit 2
 def add(a, b):
     return a + b
 
