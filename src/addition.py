@@ -6,6 +6,7 @@
 # This is a commit for rebase 1
 # This is a commit for rebase 2
 # comment 1
+# comment 2
 def add(a, b):
     return a + b
 
