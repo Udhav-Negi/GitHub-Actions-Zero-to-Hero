@@ -3,6 +3,7 @@
 # This is a test commit
 # This is a test commit
 # This is a test commit
+# This is a commit for rebase 1
 def add(a, b):
     return a + b
 
